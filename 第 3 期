@@ -1,0 +1,79 @@
+$$
+_\texttt{\normalsize\textcolor{skyblue}{Luogu News Interview}}^\textcolor{skyblue}{\large\text{\ \ \ 洛 谷 新 闻 访 谈}}\large{/}^\text{\large\textcolor{orangered}{\ \ \ \ 第\ 3\ 期}}_{\texttt{\normalsize{(20230408期)}}}/\ \texttt{SV 比赛作弊被举报}
+$$
+
+---
+
+本期贡献人员：
+
+编辑：@[\_\_Allen\_123\_\_](/user/710031)、ChatGPT（仅摘录小部分）
+
+受访人员：ChatGPT（本期作为试验）、匿名用户 $1$（下称“用户 $1$”）、@[xiaobeng_0912](/user/570046)
+
+本期中，我们将 ChatGPT 作为采访和写文章的辅助工具，若较成功会继续如此。
+
+本期阅读量：[![Page Views Count](https://badges.toozhao.com/badges/01GXG65MN5RZW181J92FG2RJPN/green.svg)](https://badges.toozhao.com/stats/01GXG65MN5RZW181J92FG2RJPN)
+
+---
+
+$4$ 月 $5$ 日下午，洛谷用户@[TernaryTree](/user/362750)（以下简称举报人）发布了一个帖子（[举办@Starry_Vast 谢谢喵](/discuss/593446)）举报用户@[Starry_Vast](/user/816411)（以下简称 SV）在月赛中与他人交换代码的情况。那么具体为什么举报人会举报他呢？帖子中，举报人是这么说的：
+
+```plaintext
+起因是我早就看他不爽了！中午@Starry_vast 自称有 6 级水平，但是通过好几天对他在洛谷群里的观察，我发现他就是个彩笔。于是我和他在谷群里激烈地对线！真是酣畅淋漓。
+这个时候伟大的 kkk 出场了，说：你们下午比比。分数低的禁言。
+下午我就正常打比赛了，没多想。
+突然这个人私信我。我一看，嗨呀，215，这么高，好强啊！
+```
+
+据悉，举报人在洛谷官方 QQ 群等群内已经搜集到了许多证据（例如 SV 试图让他人私发 T2 代码，被抄袭人称“这是我的代码，他就改了下格式”，管理员 @[chen_zhe](/user/8457) 认为确实可以构成抄袭，SV 和举报人的私信图片等），具体可以进入上面的帖子查看。
+
+在帖子下方，一些用户也有以前 SV 在 AtCoder 和 CodeForces 比赛赛时向别人询问代码的行为和聊天记录证据。
+
+更有甚者，SV 用别人的代码来交换别人的代码，抄袭 $2$ 题（如下图 $\text{3-1}$）：
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/n058u6p5.png)
+
+$$\text{图 3-1 SV 用别人的代码来交换别人的代码}$$
+
+此帖一经发出，便引起了较大的反响，多数人认为 SV 的行为属抄袭行为，应该进行惩罚。用户 $1$ 这么认为：“月赛作弊当然棕掉好了。”xiaobeng_0912 也与他的观点不谋而合：“我觉得这种作弊行为不太好，能够构成棕名了。”ChatGPT 也指出，SV 的抄袭行为是违规行为，违反了洛谷的比赛规则，因此需要对其进行相应的惩罚。
+
+不久后的 $\text{17 : 59}$ 分，被举报人 SV 发表了帖子[再见洛谷](/discuss/593465)，称自己可能将不再进入洛谷。但评论区下，也有用户指出，只因为被 QQ 官方群禁言而退出洛谷甚至 AFO 是非常冲动的行为，有一些人因此对 SV 展开批判，也有一些人劝 SV 重归洛谷。
+
+“SV 的反应可能有些过度，但也可以理解他因为自己的错误感到自责和愧疚。如果我是 SV，我会认真反思自己的行为，并向其他被影响的参赛者道歉。同时，我也会接受相应的惩罚，并努力改正自己的错误，遵守比赛规则，重新树立自己的信誉。”ChatGPT 如是说道。“有点过度了，如果是真正喜欢OI，不可能禁言就AFO。”xiaobeng_0912 这么认为。由此看出，大家认为一个真正热爱 OI 的人，不可能只因为禁言就 AFO，SV 应该反思自己的行为。
+
+又过了不久，用户@[听取MLE声一片](/user/235738) 发表了帖子[关于洛谷用户@Starry_Vast](/discuss/593524)，在帖子内，楼主严厉批判了 SV 不顾他人感受不停群发求助的行为，认为平白无故只是为了“上分”等原因而询问他人解法甚至代码的行为是十分不可取的。
+
+那么问题来了：为什么 SV 要不断地上分呢？接下来发的一个帖子和其他用户们给出的图证告诉了我们答案。
+
+同日 $\text{20 : 07}$ 分，帖子[提供一些能证明Sv实力的东西](/discuss/593563)发布，其中包含了许多 SV 在赛时询问代码的图证（包括一部分难度较低的题目），具体如下：
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/0otwxg3j.png)
+
+$$\text{图 3-2 SV 在赛时询问代码的图证及其部分言论}$$
+
+然而，帖子下有人发来图片，说明 SV 具有了装逼的行为：
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/0tl5huix.png)
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/9la55kij.png)
+
+$$\text{图 3-3 SV 展示自己把曾给自己提供代码的 CF 紫名用户超过 500 名的图片}$$
+
+匿名用户 $1$ 也在 QQ 群内查找到了一些聊天记录：
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/6ezj3s29.png)
+
+$$\text{图 3-4 SV 在赛时询问 ARC A 代码}$$
+
+据悉，SV 在洛谷群发言却说自己稳定切 ARC 的 ABC 题和 ABC 的 ABCDE题，而且观看他的提交记录，可见常常抄袭题解。在这事实的面前不必再怀疑：SV 以为了装逼或得到高分等种种原因在比赛中进行了作弊，这便是许多用户对 SV 开喷的原因。
+
+比赛的诚信在 OI 社区中非常重要。每个 OIer 都应该遵循道德准则和比赛规则，确保他们的行为不会对他人产生负面影响，同时也为自己的个人成长和发展打下坚实的基础。SV 的事件也告诉我们：我们不能在比赛中通过作弊等手段取得成绩，否则将会受到应有的惩罚。
+
+---
+
+### 更多
+
+- [上一期](https://www.luogu.com.cn/blog/Allen-123/luogu-news-interview-20230401)
+- [序/目录](https://www.luogu.com.cn/blog/Allen-123/luogu-news-interview-prologue-contents)
+- [如何接受采访](https://www.luogu.com.cn/blog/Allen-123/luogu-news-interview-guide-how-to-be-interviewed)
+- [读者交流团](https://www.luogu.com.cn/team/57296)
